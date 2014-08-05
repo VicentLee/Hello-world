@@ -1,4 +1,6 @@
 Hello-world
 ===========
 
-Just first exercise
+Just another exercise
+
+Hello GitHub. I am Vicent Lee.
